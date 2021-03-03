@@ -25,6 +25,8 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Введение
 
+![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/Cars_picture.jpg)
+
 ## Задача
 
 ## EDA (Exploratory Data Analysis)
