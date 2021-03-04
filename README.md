@@ -33,7 +33,11 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/Корреляции.png)
 
-![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/Currrent_price_km.png)
+![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/CP_km.png)
+
+![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/CP_on_road_now.png)
+
+![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/CP_on_road_old.png)
 
 
 ## Регрессионный анализ
