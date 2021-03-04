@@ -31,6 +31,8 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## EDA (Exploratory Data Analysis)
 
+![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/Корреляции.png)
+
 ## Регрессионный анализ
 
 ## Итог
