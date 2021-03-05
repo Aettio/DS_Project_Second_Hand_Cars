@@ -81,3 +81,4 @@ p.s. Во всём коде дополнительно были сделаны �
 
 - Датасет : https://www.kaggle.com/datasets
 - Seaborn документация : https://seaborn.pydata.org/introduction.html
+- Sklearn документация : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
