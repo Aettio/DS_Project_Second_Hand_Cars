@@ -59,7 +59,7 @@ p.s. Во всём коде дополнительно были сделаны �
 ![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/CPrice_on_road_old.png)
 
 
-## линейная регрессия
+## Линейная регрессия
 
 ![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/Linear_Regression.png)
 
