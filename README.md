@@ -1,4 +1,4 @@
-# Data science | Project: "Second Hand Cars"
+# Data science | Project : "Second Hand Cars"
 
 ## Гайд по проекту
 
