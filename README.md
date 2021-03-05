@@ -56,9 +56,13 @@ p.s. Во всём коде дополнительно были сделаны �
 
 # Проверка 2 "current price" и "on road now"
 
+Тум мы имеем не совсем очевидную корреляцию, между "current proce" и "on road now", но всё же она имеется. 
+
 ![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/CPrice_on_road_now.png)
 
 # Проверка 3 "current price" и "on road old"
+
+Как и на предыдущем графике корреляция есть, но минимальная.
 
 ![alt text](https://github.com/Aettio/DS_Project_Second_Hand_Cars/blob/main/Images/CPrice_on_road_old.png)
 
