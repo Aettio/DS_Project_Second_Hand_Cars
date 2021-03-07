@@ -79,6 +79,6 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Источники
 
-- Датасет : https://www.kaggle.com/datasets
+- Датасет : https://www.kaggle.com/mayankpatel14/second-hand-used-cars-data-set-linear-regression
 - Seaborn документация : https://seaborn.pydata.org/introduction.html
 - Sklearn документация : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
