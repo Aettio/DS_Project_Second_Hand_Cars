@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 df = pd.read_csv("train.csv")
 df.head()
 
-# Убираем целевой столбец
+# Убираем целевой столбец:
 
 X = df[['v.id', 'on road old', 'on road now', 'years', 'km', 'rating',
        'condition', 'economy', 'top speed', 'hp', 'torque']]
